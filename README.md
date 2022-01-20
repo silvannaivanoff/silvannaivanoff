@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @silvannaivanoff
+- 👀 I’m interested in developing applications to make people's lives easier. I really like development for android systems, iOS, web applications, among others.
+- 🌱 I’m currently learning learning HTML, CSS, Javascript and would like to learn Android, iOS development.
+- 💞️ I’m looking to collaborate mainly in technology companies, fintech, etc.
